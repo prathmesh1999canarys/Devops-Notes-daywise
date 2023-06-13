@@ -1,0 +1,16 @@
+	-CMMI -focuses on Work Completed, InProgress, Backlog's - used for long term project's and input's are fix then we go with htis.
+-Agile - if req changing frequently then we go for agile.
+-SCRUM - Pending|Backlog Work. - for short project's.
+
+when any client came s/w-
+--->Project mng:- ReqGat, Planning, Design, Work alloc, Tracking. -(Iteration)
+-----> Implementation phase :- from here we are taking artifact's (Output of build).
+------------> Build & Deploy:- on build servers-we craete replica of server and test our appln here. [we compile artifats]-> then DEV[deployed] <---Tester's test here
+---------------> Monitoring:- there are tool's avaible to moniter all like utilization,etc.
+
+Q. What are the monitoring tools?
+Monitoring tools are used to continuously keep track of the status of the system in use, 
+in order to have the earliest warning of failures, defects or problems and to improve them. 
+There are monitoring tools for servers, networks, databases, security, performance, website and internet usage, and applications.
+
+-Deployment Types

@@ -1,0 +1,31 @@
+While creating Project- Project Process if we select basic-then it will not show that user-Story!!
+
+
+
+Task:-Create Types of Project's by different methodologies? -----In different types of project's ---diff types of work item Templates avaliable.
+
+->Basic-Few Options in work items.
+-->Agile-(What to do,Remain,Completed) - in task / Effort hours
+--->Scrum (Focus on what remains)-in task / Effort hours
+---->CMMI - Work items are more - in task / Effort hours, Classification, Schedule.
+
+
+In scrum Project:- Org setting-->Process-->new field we can add 
+
+
+
+IN Agile-->Project Setting--->Boards--> Project Config-->> Set the iterations Dates and also complete project dates. (set dates for iterations)
+		       ---> Team Config:-  (We set when the team will work)	
+
+
+Project Setting--> Teams-> WE can create a Team here-like developer and tester - and in team config we can config them.
+
+in Team Config--> iteration's--> We can assign our iterations to our team member's Like (Iteration1-2 for developer) & 3rd It For Test Team.
+in Team Config--> Areas-->We can divide the developers in e.g:-Frontend, Back-end.
+
+(We can create any number of iteration's and assign it to particular developer or tester according to project timeline).
+
+-------------> We can see this in Backlogs---> By Switching in teams we check
+
+
+Back Log Navigation levels?

@@ -1,0 +1,22 @@
+-Azure Devops Services:- We don't need any database and infra, we just need to create org ACC on azds.
+ 	but, before we need t setup all the thing's by our own.
+
+-Revise all....
+	[Projet Mg----VC-------Build & Deploy (CICD)-------Monitoring]
+
+-We use diff tools to achieve all- we facing compatability or dependencies issues! So in one tool we get all these eg. AZDS all the above we can achieve.
+
+In Azure Devops --------1. AZDS Service, 2. Azure Devops Server (TFS)-team foundation server.
+
+- in VC:- Git, TFVC.
+
+
+------------We Discussed Diff about Azure Devops Services and Server------------------------------
+
+-Creted Org -free 5 user's.
+-Access Permission's Which user visible what.
+-Licence types - Access level -Basic, Stake Holder, Visual Studio Subscriber.
+-Org Owner Change
+
+
+

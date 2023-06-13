@@ -1,0 +1,55 @@
+child Relationship:-
+					             (Epic)-at Top
+						    |
+						(features) - child - under this feature we can create child of this feature also.
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+To make our machine as build machine- We need to craete a Agent ----> Download windows---> Config--> paste org lin---> Enter PAT---> get pat form user setting.
+
+org setting--Agent Pool- creation new agent
+
+in user setting-- get PAT
+
+--------->RUN to Run the created Agent.
+
+(everything requied for build, it should present in machine) - if we use this method.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Organizational --------> Extensions ------------------>Marketplace    (We can see extensions)
+
+if any required thing's we can add from here.
+
+-------------------------------------------------------------------------------------------------------------------------
+
+User ---> add user---> once added only public project's they can see
+Permission-->we can add user ---> give him permission to particular project
+
+-------------------------------------------------------------------------------------------------------------------------
+
+Project----->ProjectSetting---->Repositories------>Security--> for which group (BuildAdministrator)/(Contributor)we added user ------> 
+from REPO what we want to show we give acces.
+
+Pipeline ------------> Select Particular pipeline------->manage security---> allow/deny
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+in high level-  Not set ----Repo1
+
+
+---------------------------------------------------
+
+Add user in project setting----give him a liscense------------->>> don't select any project it will give only few groups ---so only give him liscense
+then go to project level--------in permission's --> Add particular useer to that group (developer)/(contibuter) in these groupd.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Preview features - for org & for user also.
+-------------------------------------------------
+
+PAT??????
+
+user setting---
+Theme!!
+
+

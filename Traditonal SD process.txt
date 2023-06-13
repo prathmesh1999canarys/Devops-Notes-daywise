@@ -1,0 +1,25 @@
+In traditional SD process how they Manage like after development hoe the code shared to tester? 
+
+----->>
+----->>
+In the traditional software development process, after the development phase, the code is typically shared with testers for the testing phase. 
+The sharing of code between developers and testers can be done through various methods:
+
+Code Handoff: In this approach, developers would typically share the code with testers by physically handing off the 
+code files or storing them in a shared network folder. Testers would then retrieve the code and set up their testing environments to begin testing.
+
+Version Control Systems: Many organizations utilize version control systems, such as Git, SVN, or TFS, to manage their source code.
+Developers commit their changes to the version control repository, and testers can access the code from the repository. Testers can either clone the repository or download specific code versions for testing purposes.
+
+Build Artifacts: In some cases, developers generate build artifacts, such as compiled binaries, installers, or package files. 
+These artifacts can be shared with testers directly, either through a shared network folder, email, or a dedicated artifact repository. 
+Testers can then use these artifacts to set up testing environments and perform their tests.
+
+Continuous Integration (CI) Systems: In modern development practices, organizations may have CI systems in place. 
+When developers commit their code changes, the CI system automatically builds the code, runs tests, and generates build artifacts. 
+Testers can access these build artifacts directly from the CI system or from a designated artifact repository.
+
+It's worth noting that in traditional development processes, the sharing of code between developers and testers 
+often involves manual steps and can lead to delays, miscommunication, or inconsistencies. 
+DevOps practices, with their emphasis on automation and continuous integration, aim to minimize these challenges by 
+providing seamless and automated code sharing and integration between development and testing phases.

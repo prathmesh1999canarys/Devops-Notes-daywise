@@ -1,0 +1,31 @@
+Development <------Dev-Ops---------> Operation's.
+(Developed on one machine with avaliable tool's)------> while deploying on server 
+there might no tool's and  our developed appln not work well.
+
+
+Before  Version Control Sys - we use copy pasting of last code folder's date vise, then to modify in it for back-up.
+Later network folder to acces the changes to everyone, then VCS came into picture.
+
+
+-History of version control System - (e.g:- SVN-Subversion,TFVC)
+-Why we need.
+-what are vc system tool's avaliable previuos.
+
+
+-Tracebility (who do what)
+-Revert-back to previous version
+
+------------------------------------------------------------------------------break-------------------------------------------------
+
+==>Requirement gathering -old(Excel/Word) tools:-Trello,etc.
+===> (Development)-Coding - Vs.Code/any IDE, :- VC -TFVC
+====>Server's Build 
+=====> Deployment Server.-Testing Server
+=======>UAT   ---------------------------------------->if any bug, or change again it go back to Development.
+=========> Deployed to Production    
+
+this activity is Repetative, for each change.----> To make this system automate DevOps cames to picture.
+Basically, devops automates the repetative activities.
+
+----------------------------------------------------
+Waterfall model-spiral model, SD Methodologies.

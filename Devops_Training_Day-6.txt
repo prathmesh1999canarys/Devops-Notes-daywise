@@ -1,0 +1,9 @@
+Review all--Asking Doubs
+
+CMMI?
+
+Kanbanboard Vs Taskboard
+-->>Kanban-used to manage higher level proj.
+-Kanban and Taskboards support visualizing the flow of work and monitoring metrics to optimize that flow. 
+-Kanban boards track requirements, are sprint-independent, and you monitor the flow through the cumulative flow chart. 
+-Taskboards track tasks defined for a sprint and you monitor the flow via the sprint burndown chart.
